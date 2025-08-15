@@ -1,0 +1,47 @@
+# 📊 Previsão de Receita - Walmart
+
+Este projeto utiliza dados históricos de vendas do Walmart para prever a receita semanal e identificar os fatores que mais influenciam as vendas.
+
+---
+
+## 🎯 Objetivo
+Responder à pergunta: **Quais fatores mais contribuem para o aumento das vendas nas lojas?**  
+E criar um modelo preditivo capaz de estimar a receita semanal com base em variáveis como temperatura, promoções e datas comemorativas.
+
+---
+
+## 📂 Estrutura do Projeto
+- **`notebook.ipynb`** → análise exploratória, modelagem e resultados
+- **`dataset/`** → dados utilizados (se permitido compartilhar)
+- **`requirements.txt`** → bibliotecas necessárias para rodar o projeto
+
+---
+
+## 🛠 Tecnologias Utilizadas
+- **Python**  
+- **Pandas** e **NumPy** → tratamento e análise de dados  
+- **Scikit-learn** → modelagem preditiva  
+- **Matplotlib** e **Seaborn** → visualização de dados  
+
+---
+
+## 📊 Resultados Obtidos
+- **R²:** XX% (substituir pelo seu valor real)  
+- **Principais fatores de impacto identificados:**
+  1. Temperatura  
+  2. Descontos promocionais (Markdown)  
+  3. Períodos de feriados  
+
+O modelo mostrou que períodos promocionais próximos a feriados, combinados com temperaturas amenas, tendem a gerar maior receita.
+
+---
+
+## 🚀 Como Executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/projeto-previsao-receita-walmart.git
+
+   ---
+
+## 👨‍💻 Autor
+[Kim Joaquim] (https://www.linkedin.com/in/kim-joaquim-borges-456b37326/)
