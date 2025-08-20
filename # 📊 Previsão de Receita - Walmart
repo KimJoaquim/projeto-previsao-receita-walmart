@@ -1,4 +1,4 @@
-# 📊 Previsão de Receita - Walmart
+# 📊 Previsão de Receita Semanal do Walmart com Machine Learning (R² = 0,97)
 
 Este projeto utiliza dados históricos de vendas do Walmart para prever a receita semanal e identificar os fatores que mais influenciam as vendas.
 
@@ -44,4 +44,5 @@ O modelo mostrou que períodos promocionais próximos a feriados, combinados com
    ---
 
 ## 👨‍💻 Autor
+
 [Kim Joaquim] (https://www.linkedin.com/in/kim-joaquim-borges-456b37326/)
